@@ -1,0 +1,66 @@
+{
+  "sizes": {
+    "canblog": 0,
+    "canprint": 0,
+    "candownload": 1,
+    "size": [
+      {
+        "label": "Square",
+        "width": 75,
+        "height": 75,
+        "source": "https://farm4.staticflickr.com/3635/3460571124_23b593d0cc_s.jpg",
+        "url": "https://www.flickr.com/photos/bolec/3460571124/sizes/sq/",
+        "media": "photo"
+      },
+      {
+        "label": "Large Square",
+        "width": "150",
+        "height": "150",
+        "source": "https://farm4.staticflickr.com/3635/3460571124_23b593d0cc_q.jpg",
+        "url": "https://www.flickr.com/photos/bolec/3460571124/sizes/q/",
+        "media": "photo"
+      },
+      {
+        "label": "Thumbnail",
+        "width": "100",
+        "height": "75",
+        "source": "https://farm4.staticflickr.com/3635/3460571124_23b593d0cc_t.jpg",
+        "url": "https://www.flickr.com/photos/bolec/3460571124/sizes/t/",
+        "media": "photo"
+      },
+      {
+        "label": "Small",
+        "width": "240",
+        "height": "180",
+        "source": "https://farm4.staticflickr.com/3635/3460571124_23b593d0cc_m.jpg",
+        "url": "https://www.flickr.com/photos/bolec/3460571124/sizes/s/",
+        "media": "photo"
+      },
+      {
+        "label": "Medium",
+        "width": "500",
+        "height": "375",
+        "source": "https://farm4.staticflickr.com/3635/3460571124_23b593d0cc.jpg",
+        "url": "https://www.flickr.com/photos/bolec/3460571124/sizes/m/",
+        "media": "photo"
+      },
+      {
+        "label": "Medium 640",
+        "width": "640",
+        "height": 480,
+        "source": "https://farm4.staticflickr.com/3635/3460571124_23b593d0cc_z.jpg?zz=1",
+        "url": "https://www.flickr.com/photos/bolec/3460571124/sizes/z/",
+        "media": "photo"
+      },
+      {
+        "label": "Original",
+        "width": "640",
+        "height": "480",
+        "source": "https://farm4.staticflickr.com/3635/3460571124_8d0eb73594_o.jpg",
+        "url": "https://www.flickr.com/photos/bolec/3460571124/sizes/o/",
+        "media": "photo"
+      }
+    ]
+  },
+  "stat": "ok"
+}
